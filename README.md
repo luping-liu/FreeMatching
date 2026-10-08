@@ -1,6 +1,4 @@
-# FreeMatching
-
-**Beyond Spatio-Temporal Priors: A Generalizable Approach for Dense Correspondence Matching**
+# Beyond Spatio-Temporal Priors: A Generalizable Approach for Dense Correspondence Matching (FreeMatching, NeurIPS 2026)
 
 Luping Liu, Bingyi Kang, Yifan Wang, Dong Xu
 
@@ -95,4 +93,4 @@ Packaging checks cover tensor names/shapes against both full checkpoints, CPU te
 
 ## License
 
-FreeMatching-authored code is licensed under [Apache-2.0](LICENSE). Third-party source notices are preserved in [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md); foundation models and datasets retain their respective terms.
+The main code is licensed under [Apache-2.0](LICENSE). Third-party source notices are preserved in [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md); foundation models and datasets retain their respective terms.
