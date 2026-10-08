@@ -1,0 +1,38 @@
+{
+  "blendedmvs": {
+    "ratio": 0.1,
+    "path": "data/datasets/BlendedMVS/blendedmvs_processed_ufm"
+  },
+  "scannet": {
+    "ratio": 0.15,
+    "path": "data/datasets/scannet++/preprocess_scannetpp_ufm/train"
+  },
+  "flyingthings": {
+    "ratio": 0.1,
+    "path": "data/datasets/flyingthings/flyingthings_preprocessed_ufm"
+  },
+  "spring": {
+    "ratio": 0.05,
+    "path": "data/datasets/spring/spring_processed_ufm"
+  },
+  "blender": {
+    "ratio": 0.2,
+    "path": "data/datasets/objaverse/render_output_all"
+  },
+  "video": {
+    "ratio": 0.2,
+    "path": "data/datasets/vipe"
+  },
+  "pointodyssey": {
+    "ratio": 0.05,
+    "path": "data/datasets/pointodyssey"
+  },
+  "dynamic_replica": {
+    "ratio": 0.1,
+    "path": "data/datasets/DynamicStereo"
+  },
+  "flyingchairs": {
+    "ratio": 0.05,
+    "path": "data/datasets/flyingchairs"
+  }
+}

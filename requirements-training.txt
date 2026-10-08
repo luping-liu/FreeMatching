@@ -1,0 +1,10 @@
+-r requirements.txt
+wandb>=0.19
+matplotlib
+opencv-python-headless
+pandas
+h5py
+tifffile
+OpenEXR
+# Stage 2 only; install from the official repository.
+romav2 @ git+https://github.com/Parskatt/RoMaV2.git
